@@ -1,0 +1,25 @@
+{
+  "name": "devops-calculator",
+  "version": "1.0.0",
+  "description": "calculator using devops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chauhanvishal365/devops-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chauhanvishal365/devops-calculator/issues"
+  },
+  "homepage": "https://github.com/chauhanvishal365/devops-calculator#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.2.1"
+  }
+}

@@ -1,0 +1,51 @@
+# Node dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# OS/Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build / Cache
+dist/
+.cache/
+.tmp/
+
+# Optional npm cache
+.npm/
+
+# Coverage directories
+coverage/
+
+# Node REPL history
+.node_repl_history
+
+# Optional debug files
+*.tgz
+
+# Output of 'npm pack'
+*.zip
+
+# PM2 logs
+.pids
+.pm2
+
+# Temporary files
+*.swp
+*.swo
